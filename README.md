@@ -36,5 +36,5 @@
 ## Contact Information
 * Mobile Number - 9090267278
 * EMail ID - rohit.verma29.rv@gmail.com
-* Github Link - `github.com/Rohit7278`
-* LinkdIn Link - `https://www.linkedin.com/in/rohitkumarshaw-mern/`
+* Github Link - (github.com/Rohit7278)
+* LinkdIn Link - (https://www.linkedin.com/in/rohitkumarshaw-mern/)
