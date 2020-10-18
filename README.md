@@ -14,10 +14,12 @@
 ## Architecture
 ### Website
 * The website revolves around React JS.
-* 
+* React Hooks is used as different components of the project.
+* React Router is used to navigate the paths to create single page application.
 
 ### API
-* 
+* It is based on Express JS.
+* Context API is used for SignIn/SignUp page.
 ### Database
 * The data is stored in MongoDB.
 * The reason behind using MongoDB here is that it is a NoSQL Database that allows storing data without any structure. 
@@ -26,7 +28,7 @@
 * The photos and videos are getting stored in a cloud service platform that is knows as Cloudinary.
 
 ## Timeline
-* Yet to start
+
 
 ## License
   **MIT**
@@ -34,5 +36,5 @@
 ## Contact Information
 * Mobile Number - 9090267278
 * EMail ID - rohit.verma29.rv@gmail.com
-* Github Link - github.com/Rohit7278
+* Github Link - [github.com/Rohit7278]
 * LinkdIn Link - 
